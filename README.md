@@ -10,9 +10,10 @@ _readme still under development_
 <br/>
 
 Connect with me through:
-[facebook]
-[twitter]
-[behance]
+[facebook]FACEBOOK
+[twitter]TWITTER
+[behance]BEHANCE
+[github]My main Github
 
 <br/>
 
@@ -22,7 +23,7 @@ Connect with me through:
     - JavaScript
     - React
 
-    - Assembly Language
+    - Assembly
     - Python
     
     - Flutter
@@ -55,3 +56,4 @@ Connect with me through:
 [facebook]: https://fb.com/xinjo21
 [twitter]: https://twitter.com/xinjo21
 [behance]: https://www.behance.net/xinjo21
+[github]: https://github.com/xinjo21
